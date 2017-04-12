@@ -17,8 +17,8 @@
   },
   "homepage": "https://github.com/CBIIT/ctrp-bddtests”,
   "devDependencies": {
-    "cucumber-html-reporter": "0.2.16"
   },
   "dependencies": {
+    "cucumber-html-reporter": "0.2.16"
   }
 }
